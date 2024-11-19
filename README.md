@@ -24,6 +24,15 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![Screenshot 2024-11-19 114209](https://github.com/user-attachments/assets/dbe54a91-4e6a-4a82-baf3-c7dc2d8535af)
+![Screenshot 2024-11-19 114228](https://github.com/user-attachments/assets/2e592eee-2851-49ce-a59b-a00420914ed9)
+![Screenshot 2024-11-19 114244](https://github.com/user-attachments/assets/8b78254e-a2fa-4ca9-988a-f5a64be55a5b)
+![Screenshot 2024-11-19 114303](https://github.com/user-attachments/assets/77f23b44-9af6-476f-9f9e-024c150335fa)
+![Screenshot 2024-11-19 114324](https://github.com/user-attachments/assets/1929d82e-475a-4724-a980-9cc4082e860d)
+![Screenshot 2024-11-19 114343](https://github.com/user-attachments/assets/7da8ce8a-e3f9-4852-b26d-eafda0cd82ec)
+![Screenshot 2024-11-19 114402](https://github.com/user-attachments/assets/91c53815-904d-4538-b92a-9505a2b475ef)
+![Screenshot 2024-11-19 114416](https://github.com/user-attachments/assets/9a169eb4-afb1-4405-b0e9-053869e8a531)
+![Screenshot 2024-11-19 114451](https://github.com/user-attachments/assets/8ece1709-3764-4bc5-8854-05df2099e06e)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus, Feature selection and Feature scaling has been used on the given dataset.
